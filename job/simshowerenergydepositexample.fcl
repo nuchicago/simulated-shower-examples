@@ -1,0 +1,11 @@
+BEGIN_PROLOG
+
+standard_simshowerenergydepositexample:
+{
+  module_type:      "SimShowerEnergyDepositExample"
+  SimulationLabel:  "largeant"
+  MCShowerLabel:    "mcreco"
+}
+
+END_PROLOG
+
